@@ -25,7 +25,7 @@ The provided data set had temperature and precipitation measurements from 9 diff
 Additional analysis could help solidify the business case considering the precipitation.
 *	Query to view precipitation statistics during June and December.
 
-  o	This would show the relationship between temperatures and precipitation
+    o	This would show the relationship between temperatures and precipitation
 *	Query to view average temperatures and precipitation levels at different stations.
 
-  o	This could help narrow down the optimal location for the shop.
+    o	This could help narrow down the optimal location for the shop.
