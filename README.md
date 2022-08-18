@@ -5,12 +5,12 @@ As part of the idea to open a surf shop that also serves ice cream on the beauti
 ## Results:
 ### Temperature Statistics ###
 The provided data set had temperature and precipitation measurements from 9 different stations from 2010 thru 2018. We used Python and SQLite to analyze and filter it to show statistics for the months June and December during the timeframe.
-### Fig 1. summary statistics for the June temperatures. 
+### Fig 1. Summary statistics for the June temperatures. 
 ![](ResourcesM9/juntemp.png) 
 ### Fig 1.1. Graphic summary statistics for the June temperatures. 
 ![](ResourcesM9/june-temp.png) 
 
-### Fig 2. summary statistics for the December temperatures. 
+### Fig 2. Summary statistics for the December temperatures. 
 ![](ResourcesM9/dectemp.png) 
 ### Fig 2.1. Graphic summary statistics for the December temperatures. 
 ![](ResourcesM9/dec-temp.png) 
