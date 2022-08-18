@@ -9,7 +9,7 @@ Fig 1. summary statistics for the June temperatures.
 ![](ResourcesM9/june-temp.png) 
 
 Fig 2. summary statistics for the December temperatures. 
-![](resourcesM9/dec-temp.png) 
+![](ResourcesM9/dec-temp.png) 
   
 •	The average temperature for June (74.9°F) and December(71°F) above 70°F between 2010-2018, similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year-round.
 
