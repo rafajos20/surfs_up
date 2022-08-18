@@ -6,10 +6,10 @@ As part of the idea to open a surf shop that also serves ice cream on the beauti
 ### Temperature Statistics ###
 The provided data set had temperature and precipitation measurements from 9 different stations from 2010 thru 2018. We used Python and SQLite to analyze and filter it to show statistics for the months June and December during the timeframe.
 Fig 1. summary statistics for the June temperatures. 
-![](Resources/june-temp.png) 
+![](ResourcesM9/june-temp.png) 
 
 Fig 2. summary statistics for the December temperatures. 
-![](resources/dec-temp.png) 
+![](resourcesM9/dec-temp.png) 
   
 •	The average temperature for June (74.9°F) and December(71°F) above 70°F between 2010-2018, similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year-round.
 
