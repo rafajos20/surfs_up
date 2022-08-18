@@ -5,21 +5,21 @@ As part of the idea to open a surf shop that also serves ice cream on the beauti
 ## Results:
 ### Temperature Statistics ###
 The provided data set had temperature and precipitation measurements from 9 different stations from 2010 thru 2018. We used Python and SQLite to analyze and filter it to show statistics for the months June and December during the timeframe.
-Fig 1. summary statistics for the June temperatures. 
+### Fig 1. summary statistics for the June temperatures. 
 
 ![](ResourcesM9/june-temp.png) 
 
-Fig 2. summary statistics for the December temperatures. 
+### Fig 2. summary statistics for the December temperatures. 
 
 ![](ResourcesM9/dec-temp.png) 
   
-•	The average temperature for June (74.9°F) and December(71°F) above 70°F between 2010-2018, similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year-round.
+* •	The average temperature for June (74.9°F) and December(71°F) above 70°F between 2010-2018, similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year-round.
 
-•	The standard deviation is 3.26 for June and 3.75 for December, considering this information we can say that the temperature could vary by 4 degrees above or below the expected temperature.
+* •	The standard deviation is 3.26 for June and 3.75 for December, considering this information we can say that the temperature could vary by 4 degrees above or below the expected temperature.
 
-•	 The temperature min registered for June is 64.0°F and to December is 56.0°F this means June's lows still provide good surfing and ice cream weather.
+* •	 The temperature min registered for June is 64.0°F and to December is 56.0°F this means June's lows still provide good surfing and ice cream weather.
 
-•	The June 75th percentile is 77°F  and for  December 75th percentile is 74°F Indicates 75% of the time the temperature is in the middle to upper 70's.
+* •	The June 75th percentile is 77°F  and for  December 75th percentile is 74°F Indicates 75% of the time the temperature is in the middle to upper 70's.
 
 ## Summary:
 Additional analysis could help solidify the business case considering the precipitation.
